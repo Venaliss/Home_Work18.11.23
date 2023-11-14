@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.34031.82
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Home_Work_18_11_2023", "Home_Work_18_11_2023\Home_Work_18_11_2023.csproj", "{BE1D3261-0E9A-4475-86F2-1AF3DD2CE63F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tumakov", "Home_Work_18_11_2023\Tumakov.csproj", "{BE1D3261-0E9A-4475-86F2-1AF3DD2CE63F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Home_Task", "Home_Task\Home_Task.csproj", "{EFD8309C-130C-4989-9FD0-091A9D0FED5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BE1D3261-0E9A-4475-86F2-1AF3DD2CE63F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE1D3261-0E9A-4475-86F2-1AF3DD2CE63F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE1D3261-0E9A-4475-86F2-1AF3DD2CE63F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFD8309C-130C-4989-9FD0-091A9D0FED5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD8309C-130C-4989-9FD0-091A9D0FED5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD8309C-130C-4989-9FD0-091A9D0FED5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD8309C-130C-4989-9FD0-091A9D0FED5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

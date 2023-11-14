@@ -10,7 +10,7 @@ namespace Home_Task
     {
         static void Main(string[] args)
         {
-            ююю
+            
         }
     }
 }

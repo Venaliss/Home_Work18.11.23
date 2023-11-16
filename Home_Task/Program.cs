@@ -11,8 +11,10 @@ namespace Home_Task
     {
         static void Main(string[] args)
         {
+            /*В консоли необходимо создать 4 команды: Россия, Франция, Китай и Казахстан, и чтобы они сыграли в 6 игр.*/
+            Console.WriteLine("В консоли необходимо создать 4 команды: Россия, Франция, Китай и Казахстан, и чтобы они сыграли в 6 игр.");
             string[] strArr = new string[4] { "Russia", "France", "China", "Kazathstan" };
-            for (int i = 0; i < 3; i++)
+            for (int i = 0; i <= 3; i++)
             {
                 Team team = new Team(strArr[i]);
                 team.Games(new Beach());
